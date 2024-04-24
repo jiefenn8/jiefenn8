@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiefenn8
 - 👀 I’m interested in computers, technology, innovation 🚀 and astronomy.
-- 🌱 I’m currently learning Java, .NET and front end development (JavaScript).
-- 💞️ I’m looking to collaborate on AI, data science/visualisation and graph semantics.
+- 🌱 I’m mainly developing in Java and .NET with a dash of front end.
+- 💞️ I’m looking to collaborate on AI, data science/visualisation, graph semantics and game development.
 - 📫 You can reach me with jiefenn8@outlook.com
 
 <!---
